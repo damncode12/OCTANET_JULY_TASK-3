@@ -1,0 +1,1 @@
+This is a simple clone of the Amazon website created using HTML and CSS. The purpose of this project is to practice front-end web development skills and showcase a replica of the Amazon user interface.
